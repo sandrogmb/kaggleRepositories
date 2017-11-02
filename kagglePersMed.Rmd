@@ -10,6 +10,8 @@ output:
     highlight: tango
 ---
 
+This file is not an original work of mine; it was created by "Heads or Tails" and I copied it from kaggle.com to study it.
+
 # Introduction
 
 This is an early Exploratory Data Analysis for the [Personalized Medicine: Redefining Cancer Treatment](https://www.kaggle.com/c/msk-redefining-cancer-treatment) challenge. I will be using *ggplot2* and the *tidyverse* tools to study and visualise the structures in the data.
